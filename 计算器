@@ -2,15 +2,7 @@ import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
  
-/**
- * A simple calculator program.
- * <p>I saw this program in a QQ group, and help a friend correct it.</p>
- *
- * @author Singyuen Yip
- * @version 1.00 12/29/2009
- * @see JFrame
- * @see ActionListener
- */
+
 public class jisuanqi1 extends JFrame implements ActionListener {
     /**
      * Serial Version UID
